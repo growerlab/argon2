@@ -1,8 +1,8 @@
-module github.com/matthewhartstonge/argon2
+module github.com/growerlab/argon2
 
 go 1.13
 
 require (
-	golang.org/x/crypto v0.0.0-20180613224733-37a17fe027db
-	golang.org/x/sys v0.0.0-20180525142821-c11f84a56e43 // indirect
+	golang.org/x/crypto v0.0.0-20191219195013-becbf705a915
+	golang.org/x/sys v0.0.0-20191223224216-5a3cf8467b4e // indirect
 )

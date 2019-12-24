@@ -1,6 +1,6 @@
 # ✨ argon2 ✨
 
-[![Build Status](https://travis-ci.org/matthewhartstonge/argon2.svg?branch=master)](https://travis-ci.org/matthewhartstonge/argon2)
+[![Build Status](https://travis-ci.org/growerlab/argon2.svg?branch=master)](https://travis-ci.org/growerlab/argon2)
 
 This provides a Pure Go implemention for Argon2 password hashing. It is 
 intended to be an _almost_ drop in replacement for lhecker's amazing 
@@ -29,7 +29,7 @@ go run _example/example.go
 Benchmarks are run on each build. Follow the build badge link to check the 
 latest status on benchmarking results via TravisCI.
 
-[![Build Status](https://travis-ci.org/matthewhartstonge/argon2.svg?branch=master)](https://travis-ci.org/matthewhartstonge/argon2) 
+[![Build Status](https://travis-ci.org/growerlab/argon2.svg?branch=master)](https://travis-ci.org/growerlab/argon2) 
 
 The following manual benchmark was performed on a `i7-4770 @ 3.40GHz` with 
 `AData DDR3 1333MHz` memory.

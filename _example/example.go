@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/matthewhartstonge/argon2"
+	"github.com/growerlab/argon2"
 )
 
 var password = []byte("password")
